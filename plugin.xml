@@ -28,7 +28,7 @@
 
   <!-- android -->
   <platform name="android">
-    <dependency id="cordova-plugin-actionsheet" version="2" />
+    <dependency id="cordova-plugin-actionsheet" version="2.3.3" />
     <dependency id="cordova-plugin-dialogs" version="*" />
 
     <js-module src="www/android/launchnavigator.js" name="LaunchNavigator">
